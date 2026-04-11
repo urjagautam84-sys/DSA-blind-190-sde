@@ -21,4 +21,4 @@ class Solution {
         return Math.max(lefthieght+righthieght)+1;
 
     }
-}
+} 
