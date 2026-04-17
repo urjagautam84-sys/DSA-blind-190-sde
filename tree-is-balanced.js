@@ -11,6 +11,8 @@ class Solution {
         if(lefthieght===-1){
             return -1;
         }
+
+        
         let righthieght= this.dfshieght(root.right);
         if(righthieght===-1){
             return -1;
